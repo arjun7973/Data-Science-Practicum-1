@@ -1,0 +1,47 @@
+{
+  "total_samples": 25331,
+  "split_ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "actual_counts": {
+    "train": 17731,
+    "val": 3800,
+    "test": 3800
+  },
+  "random_state": 42,
+  "class_counts_per_split": {
+    "train": {
+      "NV": 9012,
+      "BCC": 2326,
+      "MEL": 3165,
+      "BKL": 1837,
+      "SCC": 440,
+      "AK": 607,
+      "DF": 167,
+      "VASC": 177
+    },
+    "val": {
+      "NV": 1932,
+      "BKL": 394,
+      "SCC": 94,
+      "MEL": 678,
+      "BCC": 498,
+      "AK": 130,
+      "DF": 36,
+      "VASC": 38
+    },
+    "test": {
+      "NV": 1931,
+      "BKL": 393,
+      "BCC": 499,
+      "MEL": 679,
+      "SCC": 94,
+      "AK": 130,
+      "VASC": 38,
+      "DF": 36
+    }
+  },
+  "imbalance_ratio": 53.87029288702929
+}
