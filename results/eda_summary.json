@@ -1,0 +1,20 @@
+{
+  "total_samples": 25331,
+  "num_classes": 8,
+  "class_counts": {
+    "AK": 867,
+    "BCC": 3323,
+    "BKL": 2624,
+    "DF": 239,
+    "MEL": 4522,
+    "NV": 12875,
+    "SCC": 628,
+    "VASC": 253
+  },
+  "imbalance_ratio": 53.87029288702929,
+  "majority_class": "NV",
+  "minority_class": "DF",
+  "benign_count": 15991,
+  "malignant_count": 8473,
+  "precancerous_count": 867
+}

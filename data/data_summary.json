@@ -1,0 +1,25 @@
+{
+  "total_images": 25331,
+  "total_labels": 25331,
+  "num_classes": 8,
+  "class_columns": [
+    "MEL",
+    "NV",
+    "BCC",
+    "AK",
+    "BKL",
+    "DF",
+    "VASC",
+    "SCC"
+  ],
+  "class_distribution": {
+    "NV": 12875,
+    "MEL": 4522,
+    "BCC": 3323,
+    "BKL": 2624,
+    "AK": 867,
+    "SCC": 628,
+    "VASC": 253,
+    "DF": 239
+  }
+}

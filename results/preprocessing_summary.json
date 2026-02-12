@@ -1,0 +1,27 @@
+{
+  "target_size": [
+    256,
+    256
+  ],
+  "steps": [
+    "bilinear_resize",
+    "hair_removal",
+    "clahe"
+  ],
+  "clahe_params": {
+    "clip_limit": 2.0,
+    "tile_grid_size": [
+      8,
+      8
+    ]
+  },
+  "hair_removal_params": {
+    "kernel_size": 17,
+    "threshold": 10,
+    "inpaint_radius": 1
+  },
+  "total_images": 25331,
+  "successfully_processed": 25331,
+  "failed": 0,
+  "output_directory": "/Users/nagavenkatasaimaheshandey/Desktop/skin_lesion_classification copy/data/processed/classification"
+}
