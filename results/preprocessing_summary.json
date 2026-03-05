@@ -20,8 +20,8 @@
     "threshold": 10,
     "inpaint_radius": 1
   },
-  "total_images": 25331,
-  "successfully_processed": 25331,
+  "total_images": 10015,
+  "successfully_processed": 10015,
   "failed": 0,
-  "output_directory": "/Users/nagavenkatasaimaheshandey/Desktop/skin_lesion_classification copy/data/processed/classification"
+  "output_directory": "/mnt/d/Code/student_works/MAHESH/pro/data/processed/classification"
 }

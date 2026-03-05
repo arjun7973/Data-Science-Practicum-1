@@ -1,0 +1,49 @@
+{
+  "selected_model": "Unbalanced + Unsegmented",
+  "test_accuracy": 0.7345309381237525,
+  "macro_f1": 0.42288351598950147,
+  "weighted_f1": 0.7122585560504089,
+  "macro_precision": 0.5435168114803326,
+  "macro_recall": 0.3993861967241979,
+  "per_class_auc": {
+    "VASC": 0.9731,
+    "BCC": 0.9343,
+    "AKIEC": 0.9329,
+    "NV": 0.8985,
+    "DF": 0.8922,
+    "BKL": 0.8644,
+    "MEL": 0.8135
+  },
+  "all_model_metrics": [
+    {
+      "model": "Unbalanced + Unsegmented",
+      "accuracy": 0.7345309381237525,
+      "macro_f1": 0.42288351598950147,
+      "weighted_f1": 0.7122585560504089
+    },
+    {
+      "model": "Weighted + Unsegmented",
+      "accuracy": 0.6207584830339321,
+      "macro_f1": 0.4159411339069227,
+      "weighted_f1": 0.6617117334851537
+    },
+    {
+      "model": "Segmented + Unbalanced",
+      "accuracy": 0.5741849634065203,
+      "macro_f1": 0.1494142370598794,
+      "weighted_f1": 0.5320177721377082
+    },
+    {
+      "model": "Segmented + Weighted",
+      "accuracy": 0.2954091816367265,
+      "macro_f1": 0.10546401075135865,
+      "weighted_f1": 0.37319081216991273
+    },
+    {
+      "model": "Balanced (CGAN) + Unsegmented",
+      "accuracy": 0.7218895542248835,
+      "macro_f1": 0.35936672700885486,
+      "weighted_f1": 0.6890230127391602
+    }
+  ]
+}

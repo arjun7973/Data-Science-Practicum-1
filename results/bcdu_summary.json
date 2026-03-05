@@ -1,0 +1,10 @@
+{
+  "model": "BCDU-Net",
+  "epochs_trained": 20,
+  "test_metrics": {
+    "loss": 0.6335578560829163,
+    "compile_metrics": 0.6496404409408569
+  },
+  "segmented_images": 10015,
+  "output_dir": "/mnt/d/Code/student_works/MAHESH/pro/data/processed/segmented"
+}

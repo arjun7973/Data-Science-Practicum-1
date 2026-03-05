@@ -1,0 +1,13 @@
+{
+  "total_pairs": 2594,
+  "target_size": [
+    256,
+    256
+  ],
+  "splits": {
+    "train": 1815,
+    "val": 389,
+    "test": 390
+  },
+  "output_dir": "/mnt/d/Code/student_works/MAHESH/pro/data/processed/segmentation"
+}

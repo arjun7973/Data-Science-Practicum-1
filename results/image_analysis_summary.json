@@ -1,18 +1,18 @@
 {
   "sample_size": 500,
   "dimension_stats": {
-    "width_median": 1024.0,
-    "height_median": 768.0,
-    "unique_dimensions": 22
+    "width_median": 600.0,
+    "height_median": 450.0,
+    "unique_dimensions": 1
   },
   "color_stats": {
-    "brightness_mean": 146.3215711609521,
-    "brightness_std": 29.131225040214876,
-    "red_mean": 172.8028106090598,
-    "green_mean": 135.1578685084421,
-    "blue_mean": 134.29133760068945
+    "brightness_mean": 158.42399575925927,
+    "brightness_std": 18.729565596163468,
+    "red_mean": 197.6304267222222,
+    "green_mean": 140.6950634814815,
+    "blue_mean": 146.7924904074074
   },
   "artifact_analysis": {
-    "potential_hair_percentage": 88.0
+    "potential_hair_percentage": 98.0
   }
 }

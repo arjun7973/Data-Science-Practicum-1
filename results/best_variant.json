@@ -1,0 +1,5 @@
+{
+  "best_variant": "3. SMOTE + Unsegmented",
+  "accuracy": 0.7764471057884231,
+  "macro_f1": 0.5661288159858682
+}

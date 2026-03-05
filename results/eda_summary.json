@@ -1,20 +1,19 @@
 {
-  "total_samples": 25331,
-  "num_classes": 8,
+  "total_samples": 10015,
+  "num_classes": 7,
   "class_counts": {
-    "AK": 867,
-    "BCC": 3323,
-    "BKL": 2624,
-    "DF": 239,
-    "MEL": 4522,
-    "NV": 12875,
-    "SCC": 628,
-    "VASC": 253
+    "AKIEC": 327,
+    "BCC": 514,
+    "BKL": 1099,
+    "DF": 115,
+    "MEL": 1113,
+    "NV": 6705,
+    "VASC": 142
   },
-  "imbalance_ratio": 53.87029288702929,
+  "imbalance_ratio": 58.30434782608695,
   "majority_class": "NV",
   "minority_class": "DF",
-  "benign_count": 15991,
-  "malignant_count": 8473,
-  "precancerous_count": 867
+  "benign_count": 8061,
+  "malignant_count": 1627,
+  "precancerous_count": 327
 }

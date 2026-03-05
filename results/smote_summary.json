@@ -1,0 +1,8 @@
+{
+  "model": "SMOTE + MLP on EfficientNetB2 features",
+  "feature_dim": 1408,
+  "samples_before_smote": 7010,
+  "samples_after_smote": 32851,
+  "test_accuracy": 0.7764471057884231,
+  "macro_f1": 0.5661288159858682
+}

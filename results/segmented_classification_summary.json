@@ -1,0 +1,6 @@
+{
+  "variant_a_accuracy": 0.7005988023952096,
+  "variant_a_macro_f1": 0.36516633236509327,
+  "variant_b_accuracy": 0.5728542914171657,
+  "variant_b_macro_f1": 0.36636917463955493
+}

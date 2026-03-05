@@ -1,0 +1,15 @@
+{
+  "model": "CGAN (Conditional GAN)",
+  "img_size": 64,
+  "latent_dim": 128,
+  "epochs": 20,
+  "generated_per_class": {
+    "AKIEC": 4464,
+    "BCC": 4333,
+    "BKL": 3924,
+    "DF": 4612,
+    "MEL": 3914,
+    "VASC": 4594
+  },
+  "output_dir": "/mnt/d/Code/student_works/MAHESH/pro/data/generated"
+}
